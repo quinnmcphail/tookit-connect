@@ -1,0 +1,16 @@
+{
+  "name": "toolkit-connect",
+  "version": "1.0.0",
+  "description": "Package to connect a Node.js server to MYLAPS Toolkit TCP/IP Exporter.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "TCP"
+  ],
+  "author": "Quinn McPhail",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
